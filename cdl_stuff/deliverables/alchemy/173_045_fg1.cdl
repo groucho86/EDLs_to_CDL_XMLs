@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<ColorDecisionList>
+	<ColorDecision>
+		<ColorCorrection>
+			<SOPNode>
+				<Slope>0.756192 0.821041 1.068815</Slope>
+				<Offset>0.058470 0.061432 0.085672</Offset>
+				<Power>2.544892 2.534735 2.514952</Power>
+			</SOPNode>
+			<SatNode>
+				<Saturation>1.000000</Saturation>
+			</SatNode>
+		</ColorCorrection>
+	</ColorDecision>
+</ColorDecisionList>
